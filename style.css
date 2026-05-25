@@ -11,8 +11,6 @@
     color:#222;
   }
   
-  /* NAVBAR */
-  
   nav{
     width:100%;
     padding:20px 8%;
@@ -80,7 +78,6 @@
     box-shadow:0 10px 20px rgba(0,0,0,0.1);
   }
   
-  /* HOME */
   
   .home{
     min-height:90vh;
@@ -183,14 +180,6 @@
     margin-top: 350px;
   }
   
-  /* SECTION */
-  
-  /* section{
-    padding:80px 8%;
-  }
-   */
-  /* ABOUT */
-  
   .about{
     min-height:90vh;
     padding:10px 13%;
@@ -258,7 +247,7 @@
     box-shadow:0 10px 20px rgba(0,0,0,0.1);
   }
   
-  /* SKILLS */
+
   
   .skills{
     min-height:90vh;
@@ -269,7 +258,7 @@
   .skills h4{
     font-size: 30px;
     color:#6b7a34;
-    margin-top: 40px;
+    margin-top: 30px;
     text-align: center;
   }
   
@@ -334,7 +323,6 @@
     width:50%;
   }
   
-  /* PROJECTS */
   
   .projects,
   .certificates{
@@ -424,8 +412,7 @@
     color:#666;
     margin-top:10px;
   }
-  
-  /* CONTACT */
+
   
   .contact{
     min-height:90vh;
@@ -478,7 +465,7 @@
     color:#555;
   }
   
-  /* FOOTER */
+  
   
   footer{
     background:#6b7a34;
@@ -487,7 +474,7 @@
     padding:20px;
   }
   
-  /* RESPONSIVE */
+
   
   @media(max-width:900px){
   
